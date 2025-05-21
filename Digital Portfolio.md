@@ -19,8 +19,8 @@
 ## Career Counselling
 
 
-![]()
-- * *
+![](./career-development-proof.png)
+- *Multiple exercies completed- eg career roadmap  *
 
 ### ⭐ Reflection using the STAR Method
 **S**:   
@@ -33,7 +33,7 @@
 ## Skills and Interests
 
 
-![]()
+![](./skills-and-interests--proof.png)
 
 
 ### ⭐ Reflection using the STAR Method
@@ -47,7 +47,7 @@
 ## Personality Assessment
 
 
-![]()
+![](./personality-assessment-proof.png)
 
 ### ⭐ Reflection using the STAR Method
 **S**: 
@@ -60,7 +60,7 @@
 ## Create a CV
 
 
-![]()
+![](./create-cv-proof.png)
 - Drafted CV using Adobe Express and Microsoft Word.
 
 ### ⭐ Reflection using the STAR Method
@@ -74,7 +74,7 @@
 ## CV Submission
 
 
-- [Link to CV]()
+- [Link to CV](./cv-submission.png)
 
 ### ⭐ Reflection using the STAR Method
 **S**:  
