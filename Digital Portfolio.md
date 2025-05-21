@@ -18,9 +18,9 @@
 | CV Submission          | [CV Submission](#cv-submission) |
 ## Career Counselling
 
-
+---
 ![](./career%20development%20proof.png)
-- *Multiple exercies completed- eg career roadmap  *
+ - *Multiple exercies completed: eg career roadmap*
 
 ### ⭐ Reflection using the STAR Method
 **S**:   
@@ -34,7 +34,7 @@
 
 
 ![](./Skills%20and%20interests%20proof.png)
-
+ - *Completed in Blackboard and Linkedin*
 
 ### ⭐ Reflection using the STAR Method
 **S**:
@@ -48,7 +48,7 @@
 
 
 ![](./Personality%20assessment%20proof.png)
-
+ - *Completed in Blackboard and Linkedin*
 ### ⭐ Reflection using the STAR Method
 **S**: 
 **T**:   
@@ -61,7 +61,7 @@
 
 
 ![](./Create%20CV%20proof.png)
-- Drafted CV using Adobe Express and Microsoft Word.
+ - *Program used: Microsoft Word*
 
 ### ⭐ Reflection using the STAR Method
 **S**:  
@@ -74,7 +74,8 @@
 ## CV Submission
 
 
-- ![](./CV%20submission.png)
+ ![](./CV%20submission.png)
+ - *STILL not marked, but submitted*
 
 ### ⭐ Reflection using the STAR Method
 **S**:  
